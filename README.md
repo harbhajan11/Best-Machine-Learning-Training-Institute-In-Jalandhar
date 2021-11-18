@@ -16,8 +16,8 @@ You'll be able to integrate trained models into a web application and assess the
 Itronix Solutions provides beginner to <a href="https://ccnatrainingjalandhar.in/machine-learning-training-in-jalandhar/">advanced Machine Learning Training Course In Jalandhar</a> . Certified Machine Learning trainers with vast training experience and regarded the best in the industry provides you Machine Learning coaching in Jalandhar.
 Being a Microsoft Authorized Education Partner, Cisco Partners, Intel Technology Provider, Google Certified Professionals, and IBM Certified, we are one of the best Machine Learning Training in Jalandhar. After the completion of the Machine Learning Course in Jalandhar, Itronix Solutions provides 100% job placement for eligible students.
       Contact Itronix Solutions to Enroll for <a href="https://priyadogra.com/machine-learning-training-chandigarh/">Best Machine Learning Course in Jalandhar</a> and Get FREE Machine Learning Certification from IBM. In Their Jalandhar Branch, Machine Learning Course designs according to current IT requirements.</p>
-<address> Address: SCO-28, First Floor, Chotti Baradari, Garha Road, Jalandhar
-  Phone No: +91 99140 77736, +91 94173 12121 </address>
+<address> <b> Address: SCO-28, First Floor, Chotti Baradari, Garha Road, Jalandhar
+  Phone No: +91 99140 77736, +91 94173 12121 <b> </address>
   </body>
   </html>
 
